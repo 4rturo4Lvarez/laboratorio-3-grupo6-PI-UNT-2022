@@ -8,7 +8,7 @@ SubProceso total = Fnmonto_total ( capital, interes, t_inicial, t_final)
 Fin SubProceso
 
 //======================================================================================================
-Proceso Main
+Proceso Interes_Simple
 	
 	Definir monto, interes, inversion Como Real
 	Definir año_i, año_f Como Entero
@@ -29,5 +29,5 @@ Proceso Main
 	
 	Esperar 1 segundo
 	
-	Escribir "Su inversión, en el año ", año_f,", será de $", monto
+	Escribir "Su inversión en el año ", año_f," será de $", monto
 FinProceso
