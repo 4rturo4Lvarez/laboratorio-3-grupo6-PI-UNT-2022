@@ -18,6 +18,6 @@ Integrantes:
 
 -MUÑOZ VEGA, Luis Enrique
 
-LABORATORIO I
+LABORATORIO II
 
 TRUJILLO-PERÚ-2022
