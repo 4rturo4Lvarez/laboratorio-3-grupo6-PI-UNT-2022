@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Universidad Nacional de Trujillo
 
 Facultad de Ingeniería
@@ -21,3 +22,6 @@ Integrantes:
 LABORATORIO III
 
 TRUJILLO-PERÚ-2022
+=======
+
+>>>>>>> cb8f7bd (Update README.md)
