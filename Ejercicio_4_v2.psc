@@ -1,5 +1,5 @@
 Proceso Promedios
-	Escribir "Ingrese la cantidad de estudiantes"
+	Escribir "Ingrese la cantidad de estudiantes: "
 	Leer total_estudiantes
 	Dimension estudiante[total_estudiantes]
 	Dimension nota_u1[total_estudiantes]
